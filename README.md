@@ -1,4 +1,4 @@
-# WELLCOME TO BOTEROSTG COMMUNITY ![BoterosTG](boterostg.jpg) 
+# WELLCOME TO BOTEROSTG COMMUNITY ![BoterosTG](boterostg.ico) 
 
 # BASIC BOT FOR TELEGRAM
 
