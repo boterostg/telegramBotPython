@@ -1,3 +1,5 @@
+# WELLCOME TO BOTEROSTG COMMUNITY ![BoterosTG](boterostg.jpg) 
+
 # BASIC BOT FOR TELEGRAM
 
 ## [Glitch Teacher Bot](http://t.me/glitch_teacher_bot) is created with Python3 in order to show examples of functions of Telegram bots. Then read the following instructions:
