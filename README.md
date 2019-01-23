@@ -1,5 +1,7 @@
 # WELLCOME TO BOTEROSTG COMMUNITY ![BoterosTG](boterostg.ico) 
 # [TELEGRAM GROUP](http://t.me/boterostgEN)
+# [GITHUB COMMUNITY](https://github.com/boterostg)
+# [CLASSROOM](https://repl.it/community/classrooms/114961)
 
 # BASIC BOT FOR TELEGRAM
 
