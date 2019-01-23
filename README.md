@@ -6,7 +6,7 @@
 
 ## 2.- If you have read the explanation and followed all the steps, you can see the glitch of the bot, use this link https://github.com/boterostg/telegramBotPython and then click on View Source to see the project . You can look at functions examples and use them to create your own bot :D
 
-## 3.- Documentación: [TELEGRAM BOT API] (https://core.telegram.org/bots/api) (here you have all info and functions to implement in your bot). 
+## 3.- Documentación: [TELEGRAM BOT API](https://core.telegram.org/bots/api) (here you have all info and functions to implement in your bot). 
 
 ## 4.- The functionalities of the bot are in bot.py  -> https://github.com/boterostg/botBasicoGlitch/blob/master/bot.py and in https://glitch.com/~glitch-teacher-bot
 
