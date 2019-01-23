@@ -1,6 +1,6 @@
 # BASIC BOT FOR TELEGRAM
 
-## This bot  [Glitch Teacher Bot](http://t.me/glitch_teacher_bot) is created with Python3 in order to show examples of functions of Telegram bots. Then read the following instructions:
+## [Glitch Teacher Bot](http://t.me/glitch_teacher_bot) is created with Python3 in order to show examples of functions of Telegram bots. Then read the following instructions:
 
 ## 1.- First of all, read the tutorial that is explained here -> http://telegra.ph/Creando-Bots-en-Telegram-06-09
 
