@@ -10,6 +10,6 @@
 
 ## 4.- The functionalities of the bot are in [bot.py](https://github.com/boterostg/botBasicoGlitch/blob/master/bot.py) and in  [glitch proyect](https://glitch.com/~glitch-teacher-bot)
 
-## * This project comes from the Telegram group http://t.me/boterostg. Since there are many people wanting to learn, we have decided to create a bot from scratch with https://glitch.com/ and Python3. The bot will be used as an example while lectures / lectures are given and little by little the code of the bot will increase. Any questions about the code or people interested in collaborating, just have to enter to the group :)
+## * This project comes from the Telegram group http://t.me/boterostg. Since there are many people wanting to learn, we have decided to create a bot from scratch with https://glitch.com and Python3. The bot will be used as an example while lectures / lectures are given and little by little the code of the bot will increase. Any questions about the code or people interested in collaborating, just have to enter to the group :)
 
 ## * Thanks to https://github.com/sanguchi that created the entire structure of the project and the following tutorial on how to use it: http://telegra.ph/Creando-Bots-en-Telegram 06- 09
